@@ -13,7 +13,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 # Default ASR parameters - Used in case config values not specified in the config.py file
 SAMPLING_RATE = 16000
-LANGUAGE_CODE = "en-US"
+LANGUAGE_CODE = "es-US"
 ENABLE_AUTOMATIC_PUNCTUATION = True
 STREAM_INTERIM_RESULTS = True
 

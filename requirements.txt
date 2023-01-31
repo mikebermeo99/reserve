@@ -3,5 +3,4 @@ fastapi
 uvicorn[standard]
 grpcio
 python-socketio
-# Installing RIVA like this assumes a private pypi instance with riva_api uploaded already
-riva_api==2.2.1
+protobuf==3.20.0
